@@ -4,6 +4,9 @@ import { OpenStatus } from "@/components/OpenStatus";
 import { VerifiedBadge, WhatsAppIcon, MapPinIcon } from "@/components/icons";
 
 /**
+ * 
+ * 
+ * confi
  * Brand header: logo/cover thumbnail + store name + verified badge, an inline
  * "Online · address" line, and a primary WhatsApp action — aligned to the
  * full-width page gutter. Data-driven from a StoreView.
